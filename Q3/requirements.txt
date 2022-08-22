@@ -1,0 +1,6 @@
+pandas
+requests
+pandas
+bs4
+calendar
+time

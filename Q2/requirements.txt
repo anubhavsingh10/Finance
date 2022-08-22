@@ -1,0 +1,6 @@
+datetime
+nsepy
+pandas
+yfinance
+datetime
+time

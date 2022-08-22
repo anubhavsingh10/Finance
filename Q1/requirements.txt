@@ -1,0 +1,6 @@
+requests
+pandas 
+urllib3
+bs4
+datetime
+time
